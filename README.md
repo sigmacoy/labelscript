@@ -65,9 +65,3 @@ To install locally in Google Chrome, Brave, Edge, or any Chromium-based browser:
 4. Click the **Load unpacked** button in the top-left corner.
 5. Select the folder containing `manifest.json`.
 6. Pin **Labelscript** to your browser toolbar for quick access.
-
----
-
-## License
-
-MIT License. Feel free to use, modify, and distribute.
